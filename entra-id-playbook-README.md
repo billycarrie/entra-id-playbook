@@ -56,7 +56,6 @@ Built in a live Entra ID P2 sandbox simulating **Carrie Cares** — a ~200 emplo
 | [powershell-iam-toolkit](https://github.com/billycarrie/powershell-iam-toolkit) | IAM automation scripts | 📋 Planned |
 | [iam-program-framework](https://github.com/billycarrie/iam-program-framework) | IAM program design templates | 📋 Planned |
 | [zero-trust-identity](https://github.com/billycarrie/zero-trust-identity) | Zero Trust identity architecture | 📋 Planned |
-| [kql-identity-queries](https://github.com/billycarrie/kql-identity-queries) | KQL detection query library | 📋 Planned |
 
 ---
 
